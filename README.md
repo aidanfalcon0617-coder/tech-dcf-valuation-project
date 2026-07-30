@@ -37,11 +37,14 @@ required a closed-form workaround).
 
 ![CRM company sheet](docs/crm_sheet.png)
 
-The Summary sheet links every company sheet together and adds a live
-market-cap comparison — the two rightmost highlighted columns are editable
-inputs, seeded with a market-close snapshot:
+The Summary sheet links every company sheet together:
 
-![Summary sheet](docs/summary_sheet.png)
+![Summary sheet — DCF results](docs/summary_sheet_dcf.png)
+
+...and adds a live market-cap comparison — the "Price" and "Shares O/S"
+columns are editable inputs, seeded with a market-close snapshot:
+
+![Summary sheet — market comparison](docs/summary_sheet_market.png)
 
 ## Data schema
 
