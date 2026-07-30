@@ -1,0 +1,227 @@
+ticker,field,issue_type,period_end_date,details
+CRM,revenue,tag_fallback,,"Primary tag 'Revenues' didn't cover every year; filled gaps from ['RevenueFromContractWithCustomerExcludingAssessedTax'] (period-by-period, only for dates the higher-priority tag never reports)."
+CRM,operating_income,restatement,2017-01-31,Value changed across filings: 64228000 (filed 2017-03-06) -> 218000000 (filed 2019-03-08). Keeping the later filing's value.
+CRM,operating_income,restatement,2018-01-31,Value changed across filings: 235768000 (filed 2018-03-09) -> 454000000 (filed 2020-03-05). Keeping the later filing's value.
+CRM,net_income,restatement,2017-01-31,Value changed across filings: 179632000 (filed 2017-03-06) -> 323000000 (filed 2019-03-08). Keeping the later filing's value.
+CRM,net_income,restatement,2018-01-31,Value changed across filings: 127478000 (filed 2018-03-09) -> 360000000 (filed 2020-03-05). Keeping the later filing's value.
+CRM,income_tax_expense,restatement,2017-01-31,Value changed across filings: -154249000 (filed 2017-03-06) -> -144000000 (filed 2019-03-08). Keeping the later filing's value.
+CRM,income_tax_expense,restatement,2018-01-31,Value changed across filings: 74630000 (filed 2018-03-09) -> 60000000 (filed 2020-03-05). Keeping the later filing's value.
+CRM,pretax_income,tag_fallback,,"Primary tag 'IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest' didn't cover every year; filled gaps from ['IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments'] (period-by-period, only for dates the higher-priority tag never reports)."
+CRM,pretax_income,restatement,2017-01-31,Value changed across filings: 25383000 (filed 2017-03-06) -> 179000000 (filed 2019-03-08). Keeping the later filing's value.
+CRM,pretax_income,restatement,2018-01-31,Value changed across filings: 202108000 (filed 2018-03-09) -> 420000000 (filed 2020-03-05). Keeping the later filing's value.
+CRM,interest_expense,tag_fallback,,"Primary tag 'InterestExpense' didn't cover every year; filled gaps from ['InterestExpenseDebt'] (period-by-period, only for dates the higher-priority tag never reports)."
+CRM,interest_expense,restatement,2017-01-31,Value changed across filings: 88988000 (filed 2017-03-06) -> 89000000 (filed 2019-03-08). Keeping the later filing's value.
+CRM,interest_expense,restatement,2018-01-31,Value changed across filings: 86943000 (filed 2018-03-09) -> 87000000 (filed 2019-03-08). Keeping the later filing's value.
+CRM,interest_expense,restatement,2023-01-31,Value changed across filings: 287000000 (filed 2023-03-08) -> 300000000 (filed 2025-03-05). Keeping the later filing's value.
+CRM,depreciation_amortization,tag_fallback,,"Primary tag 'DepreciationDepletionAndAmortization' didn't cover every year; filled gaps from ['DepreciationAndAmortization'] (period-by-period, only for dates the higher-priority tag never reports)."
+CRM,depreciation_amortization,restatement,2017-01-31,Value changed across filings: 632245000 (filed 2017-03-06) -> 632000000 (filed 2019-03-08). Keeping the later filing's value.
+CRM,capex,tag_fallback,,"Primary tag 'PaymentsToAcquirePropertyPlantAndEquipment' didn't cover every year; filled gaps from ['PaymentsToAcquireProductiveAssets'] (period-by-period, only for dates the higher-priority tag never reports)."
+CRM,capex,restatement,2010-01-31,Value changed across filings: 53901000 (filed 2010-03-11) -> 49501000 (filed 2012-03-09). Keeping the later filing's value.
+CRM,capex,restatement,2017-01-31,Value changed across filings: 463958000 (filed 2017-03-06) -> 464000000 (filed 2019-03-08). Keeping the later filing's value.
+CRM,capex,restatement,2018-01-31,Value changed across filings: 534027000 (filed 2018-03-09) -> 534000000 (filed 2020-03-05). Keeping the later filing's value.
+CRM,operating_cash_flow,restatement,2015-01-31,Value changed across filings: 1173714000 (filed 2015-03-06) -> 1181444000 (filed 2017-03-06). Keeping the later filing's value.
+CRM,operating_cash_flow,restatement,2016-01-31,Value changed across filings: 1612585000 (filed 2016-03-07) -> 1672081000 (filed 2018-03-09). Keeping the later filing's value.
+CRM,operating_cash_flow,restatement,2017-01-31,Value changed across filings: 2162198000 (filed 2017-03-06) -> 2162000000 (filed 2019-03-08). Keeping the later filing's value.
+CRM,operating_cash_flow,restatement,2018-01-31,Value changed across filings: 2737965000 (filed 2018-03-09) -> 2738000000 (filed 2020-03-05). Keeping the later filing's value.
+CRM,cash_and_equivalents,restatement,2016-01-31,Value changed across filings: 1158363000 (filed 2016-03-07) -> 1158000000 (filed 2019-03-08). Keeping the later filing's value.
+CRM,cash_and_equivalents,restatement,2017-01-31,Value changed across filings: 1606549000 (filed 2017-03-06) -> 1607000000 (filed 2019-03-08). Keeping the later filing's value.
+CRM,cash_and_equivalents,restatement,2018-01-31,Value changed across filings: 2543484000 (filed 2018-03-09) -> 2543000000 (filed 2019-03-08). Keeping the later filing's value.
+CRM,short_term_debt,tag_fallback,,"Primary tag 'LongTermDebtCurrent' didn't cover every year; filled gaps from ['ConvertibleNotesPayableCurrent'] (period-by-period, only for dates the higher-priority tag never reports)."
+CRM,short_term_debt,restatement,2018-01-31,Value changed across filings: 1024717000 (filed 2018-03-09) -> 1025000000 (filed 2019-03-08). Keeping the later filing's value.
+CRM,long_term_debt,tag_fallback,,"Primary tag 'LongTermDebtNoncurrent' didn't cover every year; filled gaps from ['ConvertibleLongTermNotesPayable'] (period-by-period, only for dates the higher-priority tag never reports)."
+CRM,long_term_debt,restatement,2018-01-31,Value changed across filings: 694781000 (filed 2018-03-09) -> 695000000 (filed 2019-03-08). Keeping the later filing's value.
+CRM,long_term_debt,restatement,2016-01-31,Value changed across filings: 1095059000 (filed 2016-03-07) -> 1088097000 (filed 2017-03-06). Keeping the later filing's value.
+CRM,diluted_shares_outstanding,restatement,2012-01-31,Value changed across filings: 135302000 (filed 2012-03-09) -> 541208000 (filed 2014-03-05). Keeping the later filing's value.
+CRM,diluted_shares_outstanding,restatement,2013-01-31,Value changed across filings: 141224000 (filed 2013-03-08) -> 564896000 (filed 2015-03-06). Keeping the later filing's value.
+CRM,diluted_shares_outstanding,restatement,2017-01-31,Value changed across filings: 700217000 (filed 2017-03-06) -> 700000000 (filed 2019-03-08). Keeping the later filing's value.
+CRM,diluted_shares_outstanding,restatement,2018-01-31,Value changed across filings: 734598000 (filed 2018-03-09) -> 735000000 (filed 2020-03-05). Keeping the later filing's value.
+CRM,total_debt,partial_debt_components,2009-01-31,Only one of short_term_debt (None) / long_term_debt (0) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+CRM,total_debt,partial_debt_components,2010-01-31,Only one of short_term_debt (None) / long_term_debt (450198000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+CRM,total_debt,partial_debt_components,2016-01-31,Only one of short_term_debt (None) / long_term_debt (1088097000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+ADBE,revenue,restatement,2018-11-30,Value changed across filings: 9030008000 (filed 2019-01-25) -> 9030000000 (filed 2021-01-15). Keeping the later filing's value.
+ADBE,revenue,restatement,2019-11-29,Value changed across filings: 11171297000 (filed 2020-01-21) -> 11171000000 (filed 2022-01-21). Keeping the later filing's value.
+ADBE,operating_income,restatement,2018-11-30,Value changed across filings: 2840369000 (filed 2019-01-25) -> 2840000000 (filed 2021-01-15). Keeping the later filing's value.
+ADBE,operating_income,restatement,2019-11-29,Value changed across filings: 3268121000 (filed 2020-01-21) -> 3268000000 (filed 2022-01-21). Keeping the later filing's value.
+ADBE,net_income,restatement,2018-11-30,Value changed across filings: 2590774000 (filed 2019-01-25) -> 2591000000 (filed 2021-01-15). Keeping the later filing's value.
+ADBE,net_income,restatement,2019-11-29,Value changed across filings: 2951458000 (filed 2020-01-21) -> 2951000000 (filed 2022-01-21). Keeping the later filing's value.
+ADBE,income_tax_expense,restatement,2018-11-30,Value changed across filings: 203102000 (filed 2019-01-25) -> 203000000 (filed 2021-01-15). Keeping the later filing's value.
+ADBE,income_tax_expense,restatement,2019-11-29,Value changed across filings: 253283000 (filed 2020-01-21) -> 254000000 (filed 2022-01-21). Keeping the later filing's value.
+ADBE,pretax_income,tag_fallback,,"Primary tag 'IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest' didn't cover every year; filled gaps from ['IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments'] (period-by-period, only for dates the higher-priority tag never reports)."
+ADBE,pretax_income,restatement,2018-11-30,Value changed across filings: 2793876000 (filed 2019-01-25) -> 2794000000 (filed 2021-01-15). Keeping the later filing's value.
+ADBE,pretax_income,restatement,2019-11-29,Value changed across filings: 3204741000 (filed 2020-01-21) -> 3205000000 (filed 2022-01-21). Keeping the later filing's value.
+ADBE,interest_expense,restatement,2018-11-30,Value changed across filings: 89242000 (filed 2019-01-25) -> 89000000 (filed 2021-01-15). Keeping the later filing's value.
+ADBE,interest_expense,restatement,2019-11-29,Value changed across filings: 157214000 (filed 2020-01-21) -> 157000000 (filed 2022-01-21). Keeping the later filing's value.
+ADBE,depreciation_amortization,tag_fallback,,"Primary tag 'DepreciationDepletionAndAmortization' didn't cover every year; filled gaps from ['DepreciationAndAmortization'] (period-by-period, only for dates the higher-priority tag never reports)."
+ADBE,depreciation_amortization,restatement,2018-11-30,Value changed across filings: 346492000 (filed 2019-01-25) -> 346000000 (filed 2021-01-15). Keeping the later filing's value.
+ADBE,depreciation_amortization,restatement,2019-11-29,Value changed across filings: 736669000 (filed 2020-01-21) -> 757000000 (filed 2022-01-21). Keeping the later filing's value.
+ADBE,capex,restatement,2018-11-30,Value changed across filings: 266579000 (filed 2019-01-25) -> 267000000 (filed 2021-01-15). Keeping the later filing's value.
+ADBE,capex,restatement,2019-11-29,Value changed across filings: 394479000 (filed 2020-01-21) -> 395000000 (filed 2022-01-21). Keeping the later filing's value.
+ADBE,operating_cash_flow,restatement,2009-11-27,Value changed across filings: 1117772000 (filed 2010-01-22) -> 1117794000 (filed 2012-01-26). Keeping the later filing's value.
+ADBE,operating_cash_flow,restatement,2018-11-30,Value changed across filings: 4029304000 (filed 2019-01-25) -> 4029000000 (filed 2021-01-15). Keeping the later filing's value.
+ADBE,operating_cash_flow,restatement,2019-11-29,Value changed across filings: 4421813000 (filed 2020-01-21) -> 4422000000 (filed 2022-01-21). Keeping the later filing's value.
+ADBE,cash_and_equivalents,restatement,2017-12-01,Value changed across filings: 2306072000 (filed 2018-01-22) -> 2306000000 (filed 2021-01-15). Keeping the later filing's value.
+ADBE,cash_and_equivalents,restatement,2018-11-30,Value changed across filings: 1642775000 (filed 2019-01-25) -> 1643000000 (filed 2022-01-21). Keeping the later filing's value.
+ADBE,cash_and_equivalents,restatement,2019-11-29,Value changed across filings: 2650221000 (filed 2020-01-21) -> 2650000000 (filed 2022-01-21). Keeping the later filing's value.
+ADBE,short_term_debt,tag_fallback,,"Primary tag 'LongTermDebtCurrent' didn't cover every year; filled gaps from ['DebtCurrent'] (period-by-period, only for dates the higher-priority tag never reports)."
+ADBE,short_term_debt,restatement,2019-11-29,Value changed across filings: 3149343000 (filed 2020-01-21) -> 3149000000 (filed 2021-01-15). Keeping the later filing's value.
+ADBE,long_term_debt,tag_fallback,,"Primary tag 'LongTermDebtNoncurrent' didn't cover every year; filled gaps from ['LongTermDebt'] (period-by-period, only for dates the higher-priority tag never reports)."
+ADBE,diluted_shares_outstanding,restatement,2018-11-30,Value changed across filings: 497843000 (filed 2019-01-25) -> 497800000 (filed 2021-01-15). Keeping the later filing's value.
+ADBE,diluted_shares_outstanding,restatement,2019-11-29,Value changed across filings: 491572000 (filed 2020-01-21) -> 491600000 (filed 2022-01-21). Keeping the later filing's value.
+ADBE,total_debt,partial_debt_components,2008-11-28,Only one of short_term_debt (None) / long_term_debt (350000000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+ADBE,total_debt,partial_debt_components,2009-11-27,Only one of short_term_debt (None) / long_term_debt (1000000000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+ADBE,total_debt,partial_debt_components,2018-11-30,Only one of short_term_debt (0) / long_term_debt (None) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+NOW,revenue,tag_fallback,,"Primary tag 'Revenues' didn't cover every year; filled gaps from ['RevenueFromContractWithCustomerExcludingAssessedTax', 'SalesRevenueNet'] (period-by-period, only for dates the higher-priority tag never reports)."
+NOW,revenue,restatement,2019-12-31,Value changed across filings: 3460437000 (filed 2020-02-20) -> 3460000000 (filed 2022-02-03). Keeping the later filing's value.
+NOW,revenue,restatement,2020-12-31,Value changed across filings: 4519484000 (filed 2021-02-12) -> 4519000000 (filed 2023-01-31). Keeping the later filing's value.
+NOW,operating_income,restatement,2016-12-31,Value changed across filings: -422808000 (filed 2017-02-28) -> -382168000 (filed 2019-02-27). Keeping the later filing's value.
+NOW,operating_income,restatement,2017-12-31,Value changed across filings: -101414000 (filed 2018-02-28) -> -64396000 (filed 2020-02-20). Keeping the later filing's value.
+NOW,operating_income,restatement,2019-12-31,Value changed across filings: 42123000 (filed 2020-02-20) -> 42000000 (filed 2022-02-03). Keeping the later filing's value.
+NOW,operating_income,restatement,2020-12-31,Value changed across filings: 198863000 (filed 2021-02-12) -> 199000000 (filed 2023-01-31). Keeping the later filing's value.
+NOW,net_income,restatement,2016-12-31,Value changed across filings: -451804000 (filed 2017-02-28) -> -414249000 (filed 2019-02-27). Keeping the later filing's value.
+NOW,net_income,restatement,2017-12-31,Value changed across filings: -149130000 (filed 2018-02-28) -> -116846000 (filed 2020-02-20). Keeping the later filing's value.
+NOW,net_income,restatement,2020-12-31,Value changed across filings: 118503000 (filed 2021-02-12) -> 119000000 (filed 2023-01-31). Keeping the later filing's value.
+NOW,net_income,restatement,2021-12-31,Value changed across filings: 230141000 (filed 2022-02-03) -> 230000000 (filed 2024-01-25). Keeping the later filing's value.
+NOW,income_tax_expense,restatement,2016-12-31,Value changed across filings: 1753000 (filed 2017-02-28) -> 3830000 (filed 2019-02-27). Keeping the later filing's value.
+NOW,income_tax_expense,restatement,2017-12-31,Value changed across filings: 126000 (filed 2018-02-28) -> 3440000 (filed 2020-02-20). Keeping the later filing's value.
+NOW,income_tax_expense,restatement,2019-12-31,Value changed across filings: -559513000 (filed 2020-02-20) -> -560000000 (filed 2022-02-03). Keeping the later filing's value.
+NOW,income_tax_expense,restatement,2020-12-31,Value changed across filings: 30682000 (filed 2021-02-12) -> 31000000 (filed 2023-01-31). Keeping the later filing's value.
+NOW,pretax_income,tag_fallback,,"Primary tag 'IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest' didn't cover every year; filled gaps from ['IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments'] (period-by-period, only for dates the higher-priority tag never reports)."
+NOW,pretax_income,restatement,2016-12-31,Value changed across filings: -450051000 (filed 2017-02-28) -> -410419000 (filed 2019-02-27). Keeping the later filing's value.
+NOW,pretax_income,restatement,2017-12-31,Value changed across filings: -149004000 (filed 2018-02-28) -> -113406000 (filed 2020-02-20). Keeping the later filing's value.
+NOW,interest_expense,tag_fallback,,"Primary tag 'InterestExpense' didn't cover every year; filled gaps from ['InterestExpenseDebt'] (period-by-period, only for dates the higher-priority tag never reports)."
+NOW,interest_expense,restatement,2019-12-31,Value changed across filings: 33283000 (filed 2020-02-20) -> 33000000 (filed 2022-02-03). Keeping the later filing's value.
+NOW,interest_expense,restatement,2020-12-31,Value changed across filings: 32746000 (filed 2021-02-12) -> 33000000 (filed 2023-01-31). Keeping the later filing's value.
+NOW,depreciation_amortization,restatement,2019-12-31,Value changed across filings: 252114000 (filed 2020-02-20) -> 252000000 (filed 2022-02-03). Keeping the later filing's value.
+NOW,depreciation_amortization,restatement,2020-12-31,Value changed across filings: 336381000 (filed 2021-02-12) -> 336000000 (filed 2023-01-31). Keeping the later filing's value.
+NOW,capex,restatement,2019-12-31,Value changed across filings: 264892000 (filed 2020-02-20) -> 265000000 (filed 2022-02-03). Keeping the later filing's value.
+NOW,capex,restatement,2020-12-31,Value changed across filings: 419327000 (filed 2021-02-12) -> 419000000 (filed 2023-01-31). Keeping the later filing's value.
+NOW,operating_cash_flow,restatement,2014-12-31,Value changed across filings: 138900000 (filed 2015-02-27) -> 140937000 (filed 2017-02-28). Keeping the later filing's value.
+NOW,operating_cash_flow,restatement,2015-12-31,Value changed across filings: 315091000 (filed 2016-02-25) -> 317754000 (filed 2018-02-28). Keeping the later filing's value.
+NOW,operating_cash_flow,restatement,2016-12-31,Value changed across filings: 159921000 (filed 2017-02-28) -> 159081000 (filed 2019-02-27). Keeping the later filing's value.
+NOW,operating_cash_flow,restatement,2017-12-31,Value changed across filings: 642825000 (filed 2018-02-28) -> 642940000 (filed 2020-02-20). Keeping the later filing's value.
+NOW,operating_cash_flow,restatement,2019-12-31,Value changed across filings: 1235972000 (filed 2020-02-20) -> 1236000000 (filed 2022-02-03). Keeping the later filing's value.
+NOW,operating_cash_flow,restatement,2020-12-31,Value changed across filings: 1786599000 (filed 2021-02-12) -> 1786000000 (filed 2023-01-31). Keeping the later filing's value.
+NOW,cash_and_equivalents,restatement,2019-12-31,Value changed across filings: 775778000 (filed 2020-02-20) -> 776000000 (filed 2022-02-03). Keeping the later filing's value.
+NOW,cash_and_equivalents,restatement,2020-12-31,Value changed across filings: 1676794000 (filed 2021-02-12) -> 1677000000 (filed 2023-01-31). Keeping the later filing's value.
+NOW,short_term_debt,tag_fallback,,"Primary tag 'LongTermDebtCurrent' didn't cover every year; filled gaps from ['ConvertibleNotesPayableCurrent', 'ShortTermBorrowings'] (period-by-period, only for dates the higher-priority tag never reports)."
+NOW,long_term_debt,tag_fallback,,"Primary tag 'LongTermDebtNoncurrent' didn't cover every year; filled gaps from ['ConvertibleLongTermNotesPayable', 'ConvertibleDebt', 'LongTermDebt'] (period-by-period, only for dates the higher-priority tag never reports)."
+NOW,long_term_debt,restatement,2014-12-31,Value changed across filings: 443764000 (filed 2015-02-27) -> 443437000 (filed 2016-02-25). Keeping the later filing's value.
+NOW,diluted_shares_outstanding,restatement,2023-12-31,Value changed across filings: 205591000 (filed 2024-01-25) -> 1027953000 (filed 2026-01-29). Keeping the later filing's value.
+NOW,diluted_shares_outstanding,restatement,2024-12-31,Value changed across filings: 208423000 (filed 2025-01-30) -> 1042113000 (filed 2026-01-29). Keeping the later filing's value.
+NOW,total_debt,partial_debt_components,2012-12-31,Only one of short_term_debt (None) / long_term_debt (0) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+NOW,total_debt,partial_debt_components,2013-12-31,Only one of short_term_debt (None) / long_term_debt (414777000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+NOW,total_debt,partial_debt_components,2014-12-31,Only one of short_term_debt (None) / long_term_debt (443437000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+NOW,total_debt,partial_debt_components,2015-12-31,Only one of short_term_debt (None) / long_term_debt (474534000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+NOW,total_debt,partial_debt_components,2019-12-31,Only one of short_term_debt (52668000) / long_term_debt (None) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+NOW,total_debt,partial_debt_components,2020-12-31,Only one of short_term_debt (0) / long_term_debt (None) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+NOW,total_debt,partial_debt_components,2023-12-31,Only one of short_term_debt (None) / long_term_debt (1488000000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+NOW,total_debt,partial_debt_components,2024-12-31,Only one of short_term_debt (None) / long_term_debt (1489000000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+NOW,total_debt,partial_debt_components,2025-12-31,Only one of short_term_debt (None) / long_term_debt (1491000000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+WDAY,revenue,tag_fallback,,"Primary tag 'Revenues' didn't cover every year; filled gaps from ['RevenueFromContractWithCustomerExcludingAssessedTax'] (period-by-period, only for dates the higher-priority tag never reports)."
+WDAY,revenue,restatement,2016-01-31,Value changed across filings: 1162346000 (filed 2016-03-22) -> 1156690000 (filed 2018-03-14). Keeping the later filing's value.
+WDAY,revenue,restatement,2017-01-31,Value changed across filings: 1569407000 (filed 2017-03-20) -> 1574440000 (filed 2018-03-14). Keeping the later filing's value.
+WDAY,revenue,restatement,2022-01-31,Value changed across filings: 5138798000 (filed 2022-02-28) -> 5139000000 (filed 2024-03-08). Keeping the later filing's value.
+WDAY,revenue,restatement,2023-01-31,Value changed across filings: 6215818000 (filed 2023-02-27) -> 6216000000 (filed 2025-03-11). Keeping the later filing's value.
+WDAY,operating_income,restatement,2016-01-31,Value changed across filings: -264659000 (filed 2016-03-22) -> -249789000 (filed 2018-03-14). Keeping the later filing's value.
+WDAY,operating_income,restatement,2017-01-31,Value changed across filings: -376665000 (filed 2017-03-20) -> -353086000 (filed 2019-03-18). Keeping the later filing's value.
+WDAY,operating_income,restatement,2022-01-31,Value changed across filings: -116450000 (filed 2022-02-28) -> -116000000 (filed 2024-03-08). Keeping the later filing's value.
+WDAY,operating_income,restatement,2023-01-31,Value changed across filings: -222200000 (filed 2023-02-27) -> -222000000 (filed 2025-03-11). Keeping the later filing's value.
+WDAY,net_income,restatement,2016-01-31,Value changed across filings: -289918000 (filed 2016-03-22) -> -275048000 (filed 2018-03-14). Keeping the later filing's value.
+WDAY,net_income,restatement,2017-01-31,Value changed across filings: -408278000 (filed 2017-03-20) -> -384699000 (filed 2019-03-18). Keeping the later filing's value.
+WDAY,net_income,restatement,2022-01-31,Value changed across filings: 29373000 (filed 2022-02-28) -> 29000000 (filed 2024-03-08). Keeping the later filing's value.
+WDAY,net_income,restatement,2023-01-31,Value changed across filings: -366749000 (filed 2023-02-27) -> -367000000 (filed 2025-03-11). Keeping the later filing's value.
+WDAY,income_tax_expense,restatement,2022-01-31,Value changed across filings: -13191000 (filed 2022-02-28) -> -13000000 (filed 2024-03-08). Keeping the later filing's value.
+WDAY,income_tax_expense,restatement,2023-01-31,Value changed across filings: 106799000 (filed 2023-02-27) -> 107000000 (filed 2025-03-11). Keeping the later filing's value.
+WDAY,pretax_income,tag_fallback,,"Primary tag 'IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest' didn't cover every year; filled gaps from ['IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments'] (period-by-period, only for dates the higher-priority tag never reports)."
+WDAY,pretax_income,restatement,2022-01-31,Value changed across filings: 16182000 (filed 2022-02-28) -> 16000000 (filed 2024-03-08). Keeping the later filing's value.
+WDAY,pretax_income,restatement,2023-01-31,Value changed across filings: -259950000 (filed 2023-02-27) -> -260000000 (filed 2025-03-11). Keeping the later filing's value.
+WDAY,pretax_income,restatement,2016-01-31,Value changed across filings: -288901000 (filed 2016-03-22) -> -274031000 (filed 2018-03-14). Keeping the later filing's value.
+WDAY,pretax_income,restatement,2017-01-31,Value changed across filings: -409092000 (filed 2017-03-20) -> -385513000 (filed 2019-03-18). Keeping the later filing's value.
+WDAY,interest_expense,tag_fallback,,"Primary tag 'InterestExpense' didn't cover every year; filled gaps from ['InterestExpenseDebt'] (period-by-period, only for dates the higher-priority tag never reports)."
+WDAY,interest_expense,restatement,2022-01-31,Value changed across filings: 16602000 (filed 2022-02-28) -> 17000000 (filed 2024-03-08). Keeping the later filing's value.
+WDAY,interest_expense,restatement,2023-01-31,Value changed across filings: 102353000 (filed 2023-02-27) -> 102000000 (filed 2024-03-08). Keeping the later filing's value.
+WDAY,depreciation_amortization,tag_fallback,,"Primary tag 'DepreciationDepletionAndAmortization' didn't cover every year; filled gaps from ['DepreciationAndAmortization'] (period-by-period, only for dates the higher-priority tag never reports)."
+WDAY,depreciation_amortization,restatement,2017-01-31,Value changed across filings: 115885000 (filed 2017-03-20) -> 105825000 (filed 2019-03-18). Keeping the later filing's value.
+WDAY,depreciation_amortization,restatement,2018-01-31,Value changed across filings: 136974000 (filed 2018-03-14) -> 135723000 (filed 2019-03-18). Keeping the later filing's value.
+WDAY,capex,tag_fallback,,"Primary tag 'PaymentsToAcquirePropertyPlantAndEquipment' didn't cover every year; filled gaps from ['PaymentsToAcquireProductiveAssets'] (period-by-period, only for dates the higher-priority tag never reports)."
+WDAY,operating_cash_flow,tag_fallback,,"Primary tag 'NetCashProvidedByUsedInOperatingActivities' didn't cover every year; filled gaps from ['NetCashProvidedByUsedInOperatingActivitiesContinuingOperations'] (period-by-period, only for dates the higher-priority tag never reports)."
+WDAY,operating_cash_flow,restatement,2017-01-31,Value changed across filings: 348655000 (filed 2017-03-20) -> 350626000 (filed 2019-03-18). Keeping the later filing's value.
+WDAY,operating_cash_flow,restatement,2022-01-31,Value changed across filings: 1650704000 (filed 2022-02-28) -> 1651000000 (filed 2024-03-08). Keeping the later filing's value.
+WDAY,operating_cash_flow,restatement,2023-01-31,Value changed across filings: 1657195000 (filed 2023-02-27) -> 1657000000 (filed 2025-03-11). Keeping the later filing's value.
+WDAY,cash_and_equivalents,restatement,2022-01-31,Value changed across filings: 1534273000 (filed 2022-02-28) -> 1534000000 (filed 2024-03-08). Keeping the later filing's value.
+WDAY,cash_and_equivalents,restatement,2023-01-31,Value changed across filings: 1886311000 (filed 2023-02-27) -> 1886000000 (filed 2025-03-11). Keeping the later filing's value.
+WDAY,short_term_debt,tag_fallback,,"Primary tag 'LongTermDebtCurrent' didn't cover every year; filled gaps from ['ConvertibleDebtCurrent', 'ConvertibleNotesPayableCurrent'] (period-by-period, only for dates the higher-priority tag never reports)."
+WDAY,long_term_debt,tag_fallback,,"Primary tag 'LongTermDebtNoncurrent' didn't cover every year; filled gaps from ['ConvertibleDebtNoncurrent', 'ConvertibleDebt'] (period-by-period, only for dates the higher-priority tag never reports)."
+WDAY,long_term_debt,restatement,2023-01-31,Value changed across filings: 2975934000 (filed 2023-02-27) -> 2976000000 (filed 2024-03-08). Keeping the later filing's value.
+WDAY,long_term_debt,restatement,2015-01-31,Value changed across filings: 490501000 (filed 2015-03-25) -> 481958000 (filed 2016-03-22). Keeping the later filing's value.
+WDAY,total_debt,partial_debt_components,2014-01-31,Only one of short_term_debt (None) / long_term_debt (468412000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+WDAY,total_debt,partial_debt_components,2015-01-31,Only one of short_term_debt (None) / long_term_debt (481958000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+WDAY,total_debt,partial_debt_components,2016-01-31,Only one of short_term_debt (None) / long_term_debt (507476000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+WDAY,total_debt,partial_debt_components,2017-01-31,Only one of short_term_debt (0) / long_term_debt (None) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+WDAY,total_debt,partial_debt_components,2024-01-31,Only one of short_term_debt (None) / long_term_debt (2980000000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+WDAY,total_debt,partial_debt_components,2025-01-31,Only one of short_term_debt (None) / long_term_debt (2984000000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+WDAY,total_debt,partial_debt_components,2026-01-31,Only one of short_term_debt (None) / long_term_debt (2987000000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+HUBS,revenue,tag_fallback,,"Primary tag 'Revenues' didn't cover every year; filled gaps from ['RevenueFromContractWithCustomerExcludingAssessedTax'] (period-by-period, only for dates the higher-priority tag never reports)."
+HUBS,operating_income,restatement,2022-12-31,Value changed across filings: -109101000 (filed 2023-02-16) -> -102862000 (filed 2025-02-12). Keeping the later filing's value.
+HUBS,operating_income,restatement,2023-12-31,Value changed across filings: -208056000 (filed 2024-02-14) -> -200929000 (filed 2026-02-11). Keeping the later filing's value.
+HUBS,net_income,restatement,2022-12-31,Value changed across filings: -112749000 (filed 2023-02-16) -> -107347000 (filed 2025-02-12). Keeping the later filing's value.
+HUBS,net_income,restatement,2023-12-31,Value changed across filings: -176295000 (filed 2024-02-14) -> -164510000 (filed 2026-02-11). Keeping the later filing's value.
+HUBS,income_tax_expense,restatement,2022-12-31,Value changed across filings: 8057000 (filed 2023-02-16) -> 8894000 (filed 2025-02-12). Keeping the later filing's value.
+HUBS,income_tax_expense,restatement,2023-12-31,Value changed across filings: 18593000 (filed 2024-02-14) -> 13935000 (filed 2026-02-11). Keeping the later filing's value.
+HUBS,pretax_income,restatement,2022-12-31,Value changed across filings: -104692000 (filed 2023-02-16) -> -98453000 (filed 2025-02-12). Keeping the later filing's value.
+HUBS,pretax_income,restatement,2023-12-31,Value changed across filings: -157702000 (filed 2024-02-14) -> -150575000 (filed 2026-02-11). Keeping the later filing's value.
+HUBS,interest_expense,tag_fallback,,"Primary tag 'InterestExpense' didn't cover every year; filled gaps from ['InterestExpenseDebt'] (period-by-period, only for dates the higher-priority tag never reports)."
+HUBS,operating_cash_flow,tag_fallback,,"Primary tag 'NetCashProvidedByUsedInOperatingActivities' didn't cover every year; filled gaps from ['NetCashProvidedByUsedInOperatingActivitiesContinuingOperations'] (period-by-period, only for dates the higher-priority tag never reports)."
+HUBS,short_term_debt,tag_fallback,,"Primary tag 'LongTermDebtCurrent' didn't cover every year; filled gaps from ['ConvertibleNotesPayableCurrent'] (period-by-period, only for dates the higher-priority tag never reports)."
+HUBS,long_term_debt,tag_fallback,,"Primary tag 'LongTermDebtNoncurrent' didn't cover every year; filled gaps from ['ConvertibleLongTermNotesPayable'] (period-by-period, only for dates the higher-priority tag never reports)."
+HUBS,total_debt,partial_debt_components,2017-12-31,Only one of short_term_debt (None) / long_term_debt (298447000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+HUBS,total_debt,partial_debt_components,2019-12-31,Only one of short_term_debt (None) / long_term_debt (340564000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+HUBS,total_debt,partial_debt_components,2024-12-31,Only one of short_term_debt (458184000) / long_term_debt (None) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+HUBS,total_debt,partial_debt_components,2018-12-31,Only one of short_term_debt (None) / long_term_debt (318782000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+TEAM,revenue,tag_fallback,,"Primary tag 'Revenues' didn't cover every year; filled gaps from ['RevenueFromContractWithCustomerExcludingAssessedTax'] (period-by-period, only for dates the higher-priority tag never reports)."
+TEAM,capex,restatement,2023-06-30,Value changed across filings: 25652000 (filed 2023-08-18) -> 25812000 (filed 2025-08-15). Keeping the later filing's value.
+TEAM,capex,restatement,2024-06-30,Value changed across filings: 32577000 (filed 2024-08-16) -> 33112000 (filed 2025-08-15). Keeping the later filing's value.
+TEAM,cash_and_equivalents,tag_fallback,,"Primary tag 'CashAndCashEquivalentsAtCarryingValue' didn't cover every year; filled gaps from ['CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents'] (period-by-period, only for dates the higher-priority tag never reports)."
+TEAM,total_debt,partial_debt_components,2025-06-30,Only one of short_term_debt (None) / long_term_debt (987684000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+DDOG,revenue,tag_fallback,,"Primary tag 'Revenues' didn't cover every year; filled gaps from ['RevenueFromContractWithCustomerExcludingAssessedTax'] (period-by-period, only for dates the higher-priority tag never reports)."
+DDOG,interest_expense,tag_fallback,,"Primary tag 'InterestExpense' didn't cover every year; filled gaps from ['InterestExpenseDebt'] (period-by-period, only for dates the higher-priority tag never reports)."
+DDOG,short_term_debt,tag_fallback,,"Primary tag 'LongTermDebtCurrent' didn't cover every year; filled gaps from ['ConvertibleNotesPayableCurrent'] (period-by-period, only for dates the higher-priority tag never reports)."
+DDOG,long_term_debt,tag_fallback,,"Primary tag 'LongTermDebtNoncurrent' didn't cover every year; filled gaps from ['ConvertibleLongTermNotesPayable'] (period-by-period, only for dates the higher-priority tag never reports)."
+DDOG,total_debt,partial_debt_components,2020-12-31,Only one of short_term_debt (None) / long_term_debt (575864000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+DDOG,total_debt,partial_debt_components,2021-12-31,Only one of short_term_debt (None) / long_term_debt (735482000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+DDOG,total_debt,partial_debt_components,2022-12-31,Only one of short_term_debt (None) / long_term_debt (738847000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+SNOW,revenue,tag_fallback,,"Primary tag 'Revenues' didn't cover every year; filled gaps from ['RevenueFromContractWithCustomerExcludingAssessedTax'] (period-by-period, only for dates the higher-priority tag never reports)."
+SNOW,interest_expense,missing_concept,,"No data found under any of ['InterestExpense', 'InterestExpenseDebt']; field left NULL for all years."
+SNOW,cash_and_equivalents,tag_fallback,,"Primary tag 'CashAndCashEquivalentsAtCarryingValue' didn't cover every year; filled gaps from ['CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents'] (period-by-period, only for dates the higher-priority tag never reports)."
+SNOW,short_term_debt,missing_concept,,"No data found under any of ['LongTermDebtCurrent', 'ConvertibleDebtCurrent', 'ConvertibleNotesPayableCurrent', 'DebtCurrent', 'ShortTermBorrowings']; field left NULL for all years."
+SNOW,long_term_debt,tag_fallback,,"Primary tag 'LongTermDebtNoncurrent' didn't cover every year; filled gaps from ['ConvertibleDebtNoncurrent'] (period-by-period, only for dates the higher-priority tag never reports)."
+SNOW,diluted_shares_outstanding,restatement,2021-01-31,Value changed across filings: 141613196 (filed 2022-03-30) -> 141613000 (filed 2023-03-29). Keeping the later filing's value.
+SNOW,diluted_shares_outstanding,restatement,2022-01-31,Value changed across filings: 300273227 (filed 2022-03-30) -> 300273000 (filed 2024-03-26). Keeping the later filing's value.
+SNOW,total_debt,partial_debt_components,2024-01-31,Only one of short_term_debt (None) / long_term_debt (0) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+SNOW,total_debt,partial_debt_components,2025-01-31,Only one of short_term_debt (None) / long_term_debt (2271529000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+SNOW,total_debt,partial_debt_components,2026-01-31,Only one of short_term_debt (None) / long_term_debt (2279827000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+ZS,revenue,tag_fallback,,"Primary tag 'Revenues' didn't cover every year; filled gaps from ['RevenueFromContractWithCustomerExcludingAssessedTax'] (period-by-period, only for dates the higher-priority tag never reports)."
+ZS,interest_expense,tag_fallback,,"Primary tag 'InterestExpense' didn't cover every year; filled gaps from ['InterestExpenseDebt'] (period-by-period, only for dates the higher-priority tag never reports)."
+ZS,short_term_debt,tag_fallback,,"Primary tag 'LongTermDebtCurrent' didn't cover every year; filled gaps from ['ConvertibleNotesPayableCurrent'] (period-by-period, only for dates the higher-priority tag never reports)."
+ZS,long_term_debt,tag_fallback,,"Primary tag 'LongTermDebtNoncurrent' didn't cover every year; filled gaps from ['ConvertibleLongTermNotesPayable', 'LongTermDebt'] (period-by-period, only for dates the higher-priority tag never reports)."
+ZS,total_debt,partial_debt_components,2019-07-31,Only one of short_term_debt (None) / long_term_debt (0) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+ZS,total_debt,partial_debt_components,2020-07-31,Only one of short_term_debt (None) / long_term_debt (861615000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+ZS,total_debt,partial_debt_components,2021-07-31,Only one of short_term_debt (None) / long_term_debt (913538000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+ZS,total_debt,partial_debt_components,2022-07-31,Only one of short_term_debt (None) / long_term_debt (968674000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+CRWD,revenue,tag_fallback,,"Primary tag 'Revenues' didn't cover every year; filled gaps from ['RevenueFromContractWithCustomerIncludingAssessedTax'] (period-by-period, only for dates the higher-priority tag never reports)."
+CRWD,operating_income,restatement,2024-01-31,Value changed across filings: -1995000 (filed 2024-03-07) -> -19141000 (filed 2026-03-05). Keeping the later filing's value.
+CRWD,operating_income,restatement,2025-01-31,Value changed across filings: -120430000 (filed 2025-03-10) -> -116400000 (filed 2026-03-05). Keeping the later filing's value.
+CRWD,net_income,restatement,2024-01-31,Value changed across filings: 89327000 (filed 2024-03-07) -> 72181000 (filed 2026-03-05). Keeping the later filing's value.
+CRWD,net_income,restatement,2025-01-31,Value changed across filings: -19271000 (filed 2025-03-10) -> -15241000 (filed 2026-03-05). Keeping the later filing's value.
+CRWD,pretax_income,restatement,2024-01-31,Value changed across filings: 122817000 (filed 2024-03-07) -> 105671000 (filed 2026-03-05). Keeping the later filing's value.
+CRWD,pretax_income,restatement,2025-01-31,Value changed across filings: 54534000 (filed 2025-03-10) -> 58564000 (filed 2026-03-05). Keeping the later filing's value.
+CRWD,depreciation_amortization,missing_concept,,"No data found under any of ['DepreciationDepletionAndAmortization', 'DepreciationAmortizationAndAccretionNet', 'DepreciationAndAmortization']; field left NULL for all years."
+CRWD,cash_and_equivalents,tag_fallback,,"Primary tag 'CashAndCashEquivalentsAtCarryingValue' didn't cover every year; filled gaps from ['CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents'] (period-by-period, only for dates the higher-priority tag never reports)."
+CRWD,short_term_debt,missing_concept,,"No data found under any of ['LongTermDebtCurrent', 'ConvertibleDebtCurrent', 'ConvertibleNotesPayableCurrent', 'DebtCurrent', 'ShortTermBorrowings']; field left NULL for all years."
+CRWD,total_debt,partial_debt_components,2020-01-31,Only one of short_term_debt (None) / long_term_debt (0) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+CRWD,total_debt,partial_debt_components,2021-01-31,Only one of short_term_debt (None) / long_term_debt (738029000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+CRWD,total_debt,partial_debt_components,2022-01-31,Only one of short_term_debt (None) / long_term_debt (739517000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+CRWD,total_debt,partial_debt_components,2023-01-31,Only one of short_term_debt (None) / long_term_debt (741005000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+CRWD,total_debt,partial_debt_components,2024-01-31,Only one of short_term_debt (None) / long_term_debt (742494000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+CRWD,total_debt,partial_debt_components,2025-01-31,Only one of short_term_debt (None) / long_term_debt (743983000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
+CRWD,total_debt,partial_debt_components,2026-01-31,Only one of short_term_debt (None) / long_term_debt (745471000) was reported for this year; total_debt treats the missing one as 0 rather than leaving the total NULL.
